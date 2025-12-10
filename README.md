@@ -39,7 +39,7 @@ For full insights, methodology, and figures, see the LaTeX report.
 
 Reports
 - LaTeX Source: DSAProject1.tex
-- Compiled PDF (optional): add as GreenFutureBioChem_Report.pdf
+- GreenFutureBioChem_Report.pdf
 
 Tools Used
 - Python: pandas, NumPy, seaborn, matplotlib
