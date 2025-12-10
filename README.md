@@ -7,11 +7,7 @@ The analysis applies descriptive analytics, diagnostic modeling, and business in
 Repository Structure
 
 ├── DSAProject1.py         # Full Python analysis: cleaning, EDA, visualizations
-
 ├── DSAProject1.tex        # LaTeX source for final report
-
-├── figures/               # Output charts (recommended to include)
-
 └── README.md              # Project overview
 
 
