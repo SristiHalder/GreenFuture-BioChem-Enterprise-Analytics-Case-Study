@@ -5,10 +5,15 @@ This repository contains the complete analytics workflow, code, and written repo
 The analysis applies descriptive analytics, diagnostic modeling, and business intelligence techniques to evaluate cost drivers, production efficiency, demand concentration, supplier emissions, and strategic opportunities for GreenFuture’s global operations.
 
 Repository Structure
+
 ├── DSAProject1.py         # Full Python analysis: cleaning, EDA, visualizations
+
 ├── DSAProject1.tex        # LaTeX source for final report
+
 ├── figures/               # Output charts (recommended to include)
+
 └── README.md              # Project overview
+
 
 Project Overview:
 GreenFuture BioChem is a global bio-based chemicals manufacturer exploring how to strengthen its innovation pipeline, reduce operational inefficiencies, and align procurement decisions with sustainability goals. This project analyzes over 10,000+ data points across CRM and ERP systems to answer three central questions:
